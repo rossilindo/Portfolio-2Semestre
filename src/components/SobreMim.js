@@ -4,6 +4,7 @@ const SobreMim = () => {
   return (
     <>
       {/* Seção Sobre Mim */}
+      <h1 className="text-4xl text-white font-semibold text-center mb-8 mt-8">Projetos Acadêmicos</h1>
       <section className="p-6 md:p-10 bg-[#2C2F33] text-white rounded-lg shadow-xl max-w-4xl mx-auto mt-12">
         <h1 className="text-3xl md:text-4xl font-semibold text-center text-amber-300 mb-6">Sobre Mim</h1>
         <p className="text-base md:text-lg text-gray-300 leading-relaxed">

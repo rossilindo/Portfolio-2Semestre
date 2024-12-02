@@ -45,13 +45,13 @@ function App() {
 
           {/* Ícones de redes sociais */}
           <div className="flex space-x-4 ml-4">
-            <a href="https://github.com" className="hover:text-gray-400">
+            <a href="https://github.com/rossilindo" className="hover:text-gray-400">
               <FaGithub size={24} />
             </a>
-            <a href="https://www.linkedin.com" className="hover:text-gray-400">
+            <a href="https://www.linkedin.com/in/joão-rossi-7311a0301/" className="hover:text-gray-400">
               <FaLinkedin size={24} />
             </a>
-            <a href="mailto:joaovitor@exemplo.com" className="hover:text-gray-400">
+            <a href="mailto:joaovitorvenou@gmail.com" className="hover:text-gray-400">
               <FaEnvelope size={24} />
             </a>
           </div>
